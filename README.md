@@ -16,7 +16,7 @@ Other than that, I'm a cybersecurity enthusiast. That loves to explore
 - Red teaming 
 - Cloud 
 
-Other hobbies/interests
+Other hobbies/interests/participation 
 ----------------------
 Tinkering with microcomputers: eg.
 - Micro:bit
