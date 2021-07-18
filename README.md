@@ -23,9 +23,14 @@ Tinkering with microcomputers: eg.
 - RaspberryPi
 - Arduino (haven't tried it. But seems pretty interesting) 
 
+Sports 
+- Taekwondo (Poom belt) 
+
 
 Some awards I have gotten
 --------------------------
+2015 - Introschool Taekwondo competition (Bronze) 
+
 2020 - Animation and Game making competition 
 2nd Runner up 
 
