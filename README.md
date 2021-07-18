@@ -1,6 +1,6 @@
-Hello there. I'm Conqueriings
+Hello there. I'm Conqueriings. 
 
-I starting coding in 2020, started from learning block based codes like
+I started coding in 2020, started from learning block based codes like
 - Scratch
 - MakeCode (Micro:bit)
 
@@ -29,10 +29,8 @@ Sports
 
 Some awards I have gotten
 --------------------------
-2015 - Interschool Taekwondo competition (Bronze) 
-
-2020 - Animation and Game making competition 
+- 2015 - Interschool Taekwondo competition (Bronze) 
+- 2020 - Animation and Game making competition 
 2nd Runner up 
-
-2021 - Swift Student Challenge 
+- 2021 - Swift Student Challenge 
 winner 
