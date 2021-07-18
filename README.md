@@ -25,6 +25,7 @@ Tinkering with microcomputers: eg.
 
 Sports 
 - Taekwondo (2013-2015 | Poom belt) 
+- Basketball (2015-2015) 
 
 
 Some awards I have gotten
