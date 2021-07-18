@@ -24,12 +24,12 @@ Tinkering with microcomputers: eg.
 - Arduino (haven't tried it. But seems pretty interesting) 
 
 Sports 
-- Taekwondo (Poom belt) 
+- Taekwondo (2013-2015 | Poom belt) 
 
 
 Some awards I have gotten
 --------------------------
-2015 - Introschool Taekwondo competition (Bronze) 
+2015 - Interschool Taekwondo competition (Bronze) 
 
 2020 - Animation and Game making competition 
 2nd Runner up 
